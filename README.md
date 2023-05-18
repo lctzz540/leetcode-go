@@ -11,6 +11,7 @@ In every folder (problem number is the name of folder) have 3 files:
 ## Testing
 
 You have to cd into problem folder and run this command:
-´´´ bash
+
+```bash
 go test
-´´´
+```
